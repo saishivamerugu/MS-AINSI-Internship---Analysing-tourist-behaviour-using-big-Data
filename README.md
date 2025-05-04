@@ -78,7 +78,7 @@ Dashboards for decision-making
 📝 How to Run
 
 Clone the repository:
-git clone https://github.com/your-username/tourist-behavior-bigdata.git
+git clone [https://github.com/tourist-behavior-bigdata.git](https://github.com/saishivamerugu/MS-AINSI-Internship---Analysing-tourist-behaviour-using-big-Data/)
 cd tourist-behavior-bigdata
 
 Install required Python packages:
